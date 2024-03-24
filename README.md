@@ -1,3 +1,19 @@
+* Ответы на вопросы
+
+1. Если я правильно понял вопрос, то это все пакеты, которые загружены в папку *vendor*, а в частности перечислены в файле **composer.json** в качестве зависимостей и dev-зависимостей.
+Если же имелся в виду пакет laravel, то он использует пакеты:
+  -framework 
+  -pint 
+  -prompts 
+  -sail 
+  -sanctum 
+  -serializable-closure 
+  -tinker
+Но это мне пока ничего не говорит :)
+2. **Config** содержит все файлы конфигурации приложения. Но я пока не разобрался без примеров в каких случаях мне это пригодится) Надеюсь, узнаю в курсе. Пока это сложный вопрос, если нужен подробный ответ.
+3. В директории **App**. В соответствующих подпапках.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
